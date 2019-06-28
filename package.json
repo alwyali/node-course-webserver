@@ -1,0 +1,15 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "node web test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alwy ali MS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.0",
+    "hbs": "^4.0.4"
+  }
+}
